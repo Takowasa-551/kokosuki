@@ -42,4 +42,4 @@ YouTubeでお気に入りの動画投稿者や動画のあるヘビーユーザ�
 https://www.figma.com/file/he9zZmWwUeP68ddPaXjkox/%E7%94%BB%E9%9D%A2%E9%81%B7%E7%A7%BB%E5%9B%B3?node-id=0%3A1
 
 # ER図
-https://drive.google.com/file/d/10ZXez3fekHlbXB4_qv9nIUEyUz9E5UCf/view?usp=sharing
+https://drive.google.com/file/d/1ClCfVzfnkjUE1cf-Gvtm1inS8XwBo4d-/view?usp=sharing
